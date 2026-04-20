@@ -1,0 +1,1 @@
+The goal of this project was to modify an existing temperature monitoring system to work with an LCD KEPYPAD SHIELD. This enhancement allows real time temperature display directly on the LCD screen and provides user interaction through the keypad buttons. 
